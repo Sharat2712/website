@@ -6,15 +6,20 @@
 <!-- Navigation -->
 <nav class="w3-bar w3-black">
   <a href="#home" class="w3-button w3-bar-item">Home</a>
-  <a href="#band" class="w3-button w3-bar-item">Band</a>
+  <a href="#store" class="w3-button w3-bar-item">Band</a>
   <a href="#tour" class="w3-button w3-bar-item">Tour</a>
-  <a href="#contact" class="w3-button w3-bar-item">Contact</a>
+
+<a href="#contact" class="w3-button w3-bar-item">Contact</a>
+<a href="#contact" class="w3-button w3-bar-item">Contact</a>
+
+
+
 </nav>
 <!-- Slide Show -->
 <section>
   <img class="mySlides" src="images/image1.jpg" style="width:100%">
   <img class="mySlides" src="images/image2.jpg" style="width:100%">
-  <img class="mySlides" src="iamges/image3.jpg" style="width:100%">
+  <img class="mySlides" src="images/image3.jpg" style="width:100%">
 </section>
 <body>
 </body>
