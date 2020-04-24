@@ -12,9 +12,9 @@
 </nav>
 <!-- Slide Show -->
 <section>
-  <img class="mySlides" src="image1.jpg" style="width:100%">
-  <img class="mySlides" src="image2.jpg" style="width:100%">
-  <img class="mySlides" src="image3.jpg" style="width:100%">
+  <img class="mySlides" src="images/image1.jpg" style="width:100%">
+  <img class="mySlides" src="images/image2.jpg" style="width:100%">
+  <img class="mySlides" src="iamges/image3.jpg" style="width:100%">
 </section>
 <body>
 </body>
